@@ -1,2 +1,8 @@
 # DeskOrganizer
-A 3D-Printable enclosure for organizational purposes. It has a bunch of holes for storing markers, pencils, etc, along with a cupholder and a slot at the bottom to fit what you desire. It also has my initials on it :);
+A 3D-Printable enclosure for organizational purposes. It has a bunch of holes for storing markers, pencils, etc, along with a cupholder and a slot at the bottom to fit what you desire. It also has my initials on it :).
+# Why I Made This
+I am naturally a very messy soul. In an attempt to fix that, I am designing and 3D printing a design that has storage for most things on my desk, including pencils/stationery items, a water bottle/cup, and more. 
+# Pics
+<img width="1563" height="1145" alt="image" src="https://github.com/user-attachments/assets/598433cd-980b-4fb9-b88a-e8618b74d255" />
+<img width="1351" height="1102" alt="image" src="https://github.com/user-attachments/assets/4558c0ad-79c8-48b2-849b-5438f278fab3" />
+<img width="1288" height="807" alt="image" src="https://github.com/user-attachments/assets/76263d28-9982-4010-aa51-62d5d69e9d94" />
