@@ -6,3 +6,8 @@ I am naturally a very messy soul. In an attempt to fix that, I am designing and 
 <img width="1563" height="1145" alt="image" src="https://github.com/user-attachments/assets/598433cd-980b-4fb9-b88a-e8618b74d255" />
 <img width="1351" height="1102" alt="image" src="https://github.com/user-attachments/assets/4558c0ad-79c8-48b2-849b-5438f278fab3" />
 <img width="1288" height="807" alt="image" src="https://github.com/user-attachments/assets/76263d28-9982-4010-aa51-62d5d69e9d94" />
+# BOM 
+
+| Material Name | Weight of Material | Price | Print Service Provider |
+|---|---:|---:|---|
+| PLA | 233.14 g | $37.30 | ATX 3D Prints |
