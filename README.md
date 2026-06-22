@@ -3,6 +3,7 @@ A 3D-Printable enclosure for organizational purposes. It has a bunch of holes fo
 # Why I Made This
 I am naturally a very messy soul. In an attempt to fix that, I am designing and 3D printing a design that has storage for most things on my desk, including pencils/stationery items, a water bottle/cup, and more. 
 # Pics
+This was printed in halves so it would fit in the printer.
 <img width="876" height="324" alt="image" src="https://github.com/user-attachments/assets/30d5cb23-b5fd-4616-bf64-2167ebb413f2" />
 <img width="1734" height="1304" alt="image" src="https://github.com/user-attachments/assets/7e5e9312-3fdd-410e-97f1-f1f871580837" />
 
