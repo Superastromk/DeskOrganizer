@@ -6,6 +6,7 @@ I am naturally a very messy soul. In an attempt to fix that, I am designing and 
 This was printed in halves so it would fit in the printer.
 <img width="876" height="324" alt="image" src="https://github.com/user-attachments/assets/30d5cb23-b5fd-4616-bf64-2167ebb413f2" />
 <img width="1734" height="1304" alt="image" src="https://github.com/user-attachments/assets/7e5e9312-3fdd-410e-97f1-f1f871580837" />
+<img width="2097" height="2796" alt="20260626_171621" src="https://github.com/user-attachments/assets/1546b167-074f-4bcc-8562-9719baea7fcf" />
 
 
 <img width="1563" height="1145" alt="image" src="https://github.com/user-attachments/assets/598433cd-980b-4fb9-b88a-e8618b74d255" />
